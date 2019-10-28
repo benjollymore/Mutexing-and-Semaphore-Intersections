@@ -2,8 +2,7 @@
 Assignment3.c
 Spawn Trains and check RAG for deadlock conditions
 Written by 
-Benjamin Jollymore A00400128
-Johnathon Power A00405363
+Benjamin Jollymore 
 Latest version as of 2018-11-24
 Run on Ubuntu 18.04
 **/

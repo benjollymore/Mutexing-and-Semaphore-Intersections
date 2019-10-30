@@ -2,8 +2,8 @@
 Assignment3.c
 Run Trains and update RAG 
 Written by 
-Benjamin Jollymore A00400128
-Johnathon Power A00405363
+Benjamin Jollymore 
+Johnathon Power
 Latest version as of 2018-11-24 253
 Run on Ubuntu 18.04
 **/
